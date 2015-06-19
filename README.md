@@ -2,6 +2,7 @@
 
 A simple Pong game made with [gameskel](https://github.com/jube/gameskel).
 
+![https://raw.githubusercontent.com/jube/pong/master/pong.png](Pong)
 
 ## Requirements
 
